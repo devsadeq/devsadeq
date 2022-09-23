@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Sadeq
-🌱 I’m currently learning Android jetpack with Kotlin<br>📧 Contact me at dev.sadeq@gmail.com
+🌱 I’m a junior software developer<br>📧 Contact me at dev.sadeq@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devsadeq/) 
 
