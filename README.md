@@ -4,7 +4,7 @@
 </p>
 
 
-I'm a software developer, currently working on [Android](https://developer.android.com) & [Flutter](https://flutter.dev). besides that, I'm also have knowledge in backend development using [Django](https://www.djangoproject.com) & [NodeJS](https://nodejs.dev/en/). programming is my passion so I'm always trying to learn new things and improve my skills.
+I'm a software developer, currently working on [Android](https://developer.android.com) & [Flutter](https://flutter.dev). besides that, I have a knowledge in backend development using [Django](https://www.djangoproject.com) & [NodeJS](https://nodejs.dev/en/). programming is my passion so I'm always trying to learn new things and improve my skills.
 
 * 🌱 I’m currently learning **Native Android development** with [Kotlin](https://kotlinlang.org), [Android Jetpack](https://developer.android.com/jetpack), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture).
 * 📫 How to reach me:
